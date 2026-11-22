@@ -1,5 +1,7 @@
-## Hi there 👋
 
+<div align="right">
+  <img src="https://img.shields.io/badge/Status-Developer%20in%20Progress-blue" alt="Developer in Progress" />
+</div>
 <!--
 **nessie-exe/nessie-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
